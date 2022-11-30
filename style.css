@@ -25,6 +25,7 @@ header {
 
 #title {
     font-size: 2em;
+    margin-bottom: 1%;  
 }
 
 aside {
@@ -34,4 +35,5 @@ aside {
 
 video {
     width: 100%;
+    padding-top: 5%;
 }
