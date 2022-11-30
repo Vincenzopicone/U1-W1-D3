@@ -6,6 +6,8 @@ body {
 
 header {
     margin-left: 25%;
+    align-content: center;
+    padding-left: 0%;
 }
 
 #autore {
@@ -28,4 +30,8 @@ header {
 aside {
     padding-left: 6%;
     padding-bottom: 3%;
+}
+
+video {
+    width: 100%;
 }
