@@ -10,11 +10,22 @@ header {
 
 #autore {
     margin-left: 40%;
+    color: grey;
 }
 
 #list {
     color: red;
     list-style: none;
-    border-left-color: yellow;
-    margin-left: 0em;
+    margin-left: 0%;
+    padding-left: 3%;
+    border-left: 2px solid yellow;
+}
+
+#title {
+    font-size: 2em;
+}
+
+aside {
+    padding-left: 6%;
+    padding-bottom: 3%;
 }
